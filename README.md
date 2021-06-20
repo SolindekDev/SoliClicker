@@ -42,4 +42,4 @@ Użyte biblioteki: Keyboard, Mouse, Time
 
 To wszystko, dzięki!
 
-Macro zrobione w celach naukowych
+### Macro zrobione w celach naukowych
