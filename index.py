@@ -9,7 +9,7 @@ import time
 import mouse
 
 # Welcom message
-print("Aby uruchomić macro kliknij przycisk R")
+print("To make activate macro, click the R button")
 
 # Important variable!
 macroCheck = False
@@ -24,12 +24,12 @@ while True:
         if keyboard.is_pressed('r'):
             # Action on pressed
             if macroCheck == True: 
-                print('Wyłączono macro')
+                print('Macro on')
                 macroCheck = False
                 time.sleep(0.2)
             elif macroCheck == False:
-                print('Włączono macro')
+                print('Macro off')
                 macroCheck = True
                 time.sleep(0.2)
     except:
-        print('kliknięto inny klawisz')
+        
