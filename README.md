@@ -9,7 +9,7 @@ Hello i made **SoliClicker** in Python this my first project where i applies Pyt
 Run tutorial
 
 * Download
-* Open file index.py
+* Open file SoliClicker.exe
 * Then click R 
 * And have fun!
 
@@ -29,7 +29,7 @@ Witaj stworzyłem **SoliClicker** w Pythonie, jest to mój pierwszy projekt w kt
 Poradnik odpalania
 
 * Pobierz pliki
-* Otwórz plik index.py
+* Otwórz plik SoliClicker.exe
 * Kliknij R aby aktywować
 * I baw się dobrze!
 
