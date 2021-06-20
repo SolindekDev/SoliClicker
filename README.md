@@ -41,3 +41,5 @@ Wersja: 1.0.0
 Użyte biblioteki: Keyboard, Mouse, Time
 
 To wszystko, dzięki!
+
+Macro zrobione w celach naukowych
