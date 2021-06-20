@@ -1,3 +1,5 @@
+[![wakatime](https://wakatime.com/badge/github/SolindekDev/SoliClicker.svg)](https://wakatime.com/badge/github/SolindekDev/SoliClicker)
+
 # SoliClicker
 
 Hello i made **SoliClicker** in Python this my first project where i applies Python
