@@ -1,4 +1,6 @@
-[![wakatime](https://wakatime.com/badge/github/SolindekDev/SoliClicker.svg)](https://wakatime.com/badge/github/SolindekDev/SoliClicker)
+<center>
+  <img src="https://wakatime.com/badge/github/SolindekDev/SoliClicker.svg">
+ </center>
 
 # SoliClicker
 
